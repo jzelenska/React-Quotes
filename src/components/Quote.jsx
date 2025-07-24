@@ -7,5 +7,4 @@ function Quote({quote}) {
     </div>
   );
 }
-
 export default Quote;
